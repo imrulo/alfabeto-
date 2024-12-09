@@ -1,5 +1,5 @@
-# Podcast Episode 3: Practical Applications of ENS
+# Google and Ethereum: Bridging Web2 and Web3 with ENS Integration
 
-In this episode, we discuss the practical applications of ENS, including how it simplifies transactions and enhances usability in the Web3 space.
+Discutimos cómo la integración de ENS está conectando las tecnologías de Web2 y Web3, con un enfoque en la colaboración entre Google y Ethereum.
 
-Listen here: [Spotify - Episode 3](https://spotifycreators-web.app.link/e/7cjmn6K4aPb)
+Escúchalo aquí: [Spotify - Google and Ethereum](https://spotifycreators-web.app.link/e/7cjmn6K4aPb)
