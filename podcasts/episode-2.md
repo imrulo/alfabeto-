@@ -1,5 +1,5 @@
-# Podcast Episode 2: ENS and Decentralized Identity
+# The Future of ENS: Vitalik Buterin’s Vision for Ethereum’s Evolution
 
-In this episode, we explore how ENS contributes to the development of decentralized identity and its impact on the Web3 ecosystem.
+Exploramos la visión de Vitalik Buterin sobre la evolución de Ethereum y el papel que ENS desempeña en su futuro.
 
-Listen here: [Spotify - Episode 2](https://spotifycreators-web.app.link/e/pQC5bMC4aPb)
+Escúchalo aquí: [Spotify - The Future of ENS](https://spotifycreators-web.app.link/e/pQC5bMC4aPb)
