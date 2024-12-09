@@ -1,5 +1,5 @@
-# Podcast Episode 1: Exploring ENS Innovations
+# Decoding ENS: Ethereum’s Answer to Simplified Crypto Transactions
 
-In this episode, we dive into the latest ENS innovations and how they’re transforming identity management in Web3.
+En este episodio, analizamos cómo ENS simplifica las transacciones en criptomonedas, facilitando la interacción en el ecosistema de Ethereum.
 
-Listen here: [Spotify - Episode 1](https://spotifycreators-web.app.link/e/UgHW2wX3aPb)
+Escúchalo aquí: [Spotify - Decoding ENS](https://spotifycreators-web.app.link/e/UgHW2wX3aPb)
